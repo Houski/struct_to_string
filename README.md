@@ -2,7 +2,7 @@
 
 A Rust procedural macro crate for converting struct definitions into a string representation.
 
-Useful for scenarios like API documentation where you want to display your Rust structs on a webpage.
+Useful for things like API documentation where you want to display your Rust structs on a webpage.
 
 ## Installation
 
