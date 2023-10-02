@@ -72,8 +72,6 @@ Though conversion may not always be perfect for complicated structs.
 
 ## License
 
-MIT
-
 ```
-
+MIT
 ```
