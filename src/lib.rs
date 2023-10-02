@@ -14,6 +14,8 @@ use syn::{parse_macro_input, DeriveInput, Type};
 ///
 /// # Example
 /// ```
+/// use struct_to_string::StructToString;
+///
 /// #[derive(StructToString)]
 /// struct MyStruct {
 ///     field1: i32,
