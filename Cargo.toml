@@ -1,6 +1,6 @@
 [package]
 name = "struct_to_string"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Alex Wilkinson <alex@houski.ca>"]
 description = "A Rust proc-macro library to convert struct definitions to a string representation. An example use case would be for API documentation, and you want to present the Rust struct's for the API response on a webpage."
